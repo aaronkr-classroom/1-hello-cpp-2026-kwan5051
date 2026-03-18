@@ -1,0 +1,4 @@
+a = input("Please enter string 1:")
+b  = input("Please enter string 2:")
+c  = input("Please enter string 3:")
+d  = input("Please enter string 4:")
